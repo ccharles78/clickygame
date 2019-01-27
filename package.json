@@ -1,0 +1,22 @@
+{
+  "name": "clickygame",
+  "version": "1.0.0",
+  "description": "Memory Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccharles78/clickygame.git"
+  },
+  "author": "Charay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccharles78/clickygame/issues"
+  },
+  "homepage": "https://github.com/ccharles78/clickygame#readme",
+  "dependencies": {
+    "react": "^16.7.0"
+  }
+}
