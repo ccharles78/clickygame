@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "image": "shark1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "shark2.jpeg"    
+    },
+    {
+      "id": 3,
+      "image": "shark3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "shark4.jpeg" 
+    },
+    {
+      "id": 5,
+      "image": "shark5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "shark6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "shark7.jpeg"
+    },
+    {
+      "id": 8,
+      "image": "shark8.jpg"
+    },
+    {
+      "id": 9,
+      "image": "shark9.jpg"
+    },
+    {
+      "id": 10,
+      "image": "shark10.jpg"
+    }
+    
+  ]
